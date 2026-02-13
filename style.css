@@ -1,0 +1,9 @@
+body {
+  background:#f8f9fa;
+  padding-top: 80px; 
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
